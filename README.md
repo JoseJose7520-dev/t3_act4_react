@@ -19,6 +19,10 @@ La clave `key` es un identificador único requerido por el Virtual DOM de React 
 ### c) Explica con tus propias palabras qué hace la función `useState` y da un ejemplo de dónde la usaste en tu mini aplicación.
 `useState` es un Hook que permite añadir estado local a un componente funcional. Devuelve una variable con el valor actual y una función para actualizarlo.
 
+- **d) Enlace del repositorio de GitHub:** [https://github.com/JoseJose7520-dev/t3_act4_react](https://github.com/JoseJose7520-dev/t3_act4_react)
+
+- **e) Enlace del proyecto desplegado en GitHub Pages:** [https://JoseJose7520-dev.github.io/t3_act4_react/](https://JoseJose7520-dev.github.io/t3_act4_react/)
+
 **Ejemplo de uso:**
 En el componente `Counter.jsx`, utilicé `useState` para controlar el número del contador:
 ```jsx
